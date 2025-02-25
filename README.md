@@ -8,4 +8,4 @@ I write code
 
 [![Top Langs](https://github-readme-stats-vyhs.vercel.app/api/top-langs/?username=GrowingUnderTheTree&layout=compact&theme=radical&hide=jupyter%20notebook&exclude_repo=AetheriaDiscord,mcp_1.12.2)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GrowingUnderTheTree&repo=github-readme-stats)]((https://github.com/GrowingUnderTheTree/cpp-tools))
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=GrowingUnderTheTreea&repo=cpp-tools)](https://github.com/GrowingUnderTheTree/cpp-tools)
